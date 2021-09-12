@@ -1,0 +1,43 @@
+---
+title: "Overview of Pathways Data"
+output: html_document
+---
+
+## Sampling Strategy
+
+* [Link](https://www.pathwaysstudy.pitt.edu/sampling.html)
+* Maricopa County, AZ and Philadelphia, PA.
+* At least 14 years old but under the age of 18 at the time the offense was committed.
+* Only serious offenses (mostly felonies with some misdemeanor property, sexual assault, and weapons offenses).
+* Provided informed assent or consent (parental consent for all those under the age of 18 at time of enrollment).
+* Proportion of male youth found guilty of a drug charge was capped at 15% to avoid over-representation.
+* All females as well as all youth being considered for trial in the adult system (who met age and crime criteria) were approached for enrollment.
+* 20% of youth approached for participation declined.
+
+## Data Collection
+
+* [Link](https://www.pathwaysstudy.pitt.edu/datacollectionprocedures.html).
+* Baseline Interview (First baseline interview completed in November 2000, last one completed in March 2003).
+* Follow-up Interviews at 6, 12, 18, 24, 30, 36, 48, 60, 72, and 84 months past baseline (first follow up interview was May 2001 and last was March 2010). Basically every 6 months for the first 3 years and then annually thereafter. Participants were contacted every 3 to 6 months over the entire course of the study to provide updated contact information.
+* Data were collected with computer-assisted interviews which took place in participants' homes, libraries, other public places, or in facilities. Trained interviewers read each item aloud and respondents were allowed to enter their responses on a key pad (to maximize privacy).
+* Self-report information is supplemented and validated through interviews with collateral reporters and using official record information (FBI arrest records and juvenile/adult court records from each jurisdiction).
+
+### Baseline Interview
+
+* [Link](https://www.pathwaysstudy.pitt.edu/baselineinterview.html).
+* Conducted within 75 days of adjudication (juvenile system) or within 90 days of decertification hearing in Philadelphia or adult arraignment in Arizona.
+* **Background characteristics** (e.g. demographics, offense history, academic achievement), **individual functioning** (e.g. work and school performance, substance abuse), **psychosocial development and attitudes** (e.g. impulse control, susceptibility to peer influence),  **family context** (e.g. household composition), **personal relationships** (e.g. quality of romantic relationships and friends, peer delinquency, contacts with caring adults), **community context** (e.g. neighborhood conditions, personal capital, social ties).
+* Conducted in two 2-hour sessions.
+* [Link to word document with an overview of each variable categories collected during the baseline interview](https://www.pathwaysstudy.pitt.edu/documents/baselineReferenceList.doc).
+
+### Follow-up Interviews
+
+* [Link](https://www.pathwaysstudy.pitt.edu/followupinterview.html).
+* Took approximately 2 hours.
+* Study participants were paid using a graduated payment schedule ranging from \$50 to \$115.
+* A **window of opportunity** opened 6 weeks prior to the follow-up interview target date and closed 8 weeks after the target date. If the follow-up interview couldn't be completed within this time frame, it was considered a missed interview.
+* ![retention rates for the study](retention_rates.png)
+* Similar to the baseline interview, questions were asked about **individual functioning**, **psychosocial development and attitudes**, **family context**, **personal relationships**, and **community context**.
+    * An additional subset of questions were asked concerning a monthly account of changes in the participant's life.
+    * These monthly changes were captured using **life-event calendars**. THe premise being that juvenile offenders have chaotic and unstable lives. Life-event calendars are meant to capture the nature, number, and timing of important changes in life circumstances. E.g. interview captures if the participant worked during a specific interview period, but life-event calendars capture when and how long such employment periods last (and then if such periods precede or follow criminal activity). Life-event calendar information is collected at the monthly level for **education**, **income-generating activities**, **contact with legal system**, **living situation**, **romantic relationships**, and **sanctions and interventions**.
+* [Link to word document with an overview of variable categories collected during the follow up interview](https://www.pathwaysstudy.pitt.edu/documents/followupReferenceList.doc)

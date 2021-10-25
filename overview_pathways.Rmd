@@ -1,6 +1,6 @@
 ---
 title: "Overview of Pathways Data"
-output: html_document
+output: pdf_document
 ---
 
 ## Sampling Strategy
@@ -68,3 +68,24 @@ output: html_document
 * [Link](https://www.pathwaysstudy.pitt.edu/officialrecordinformation.html)
 * When possible, official administrative records were used to verify the accounts from the interviews with the subjects.
 * Sources used include: **juvenile and adult court records** (arrests and court appearances subsequent to study enrollment), **FBI records** (arrests which occurred outside of the county jurisdiction), **court service records** (specifics of service provision ordered by court), **Medicaid claims data** (services received outside the purview of the courts like therapy), **Child protective services** (any prior contact enrolled subjects had with the child welfare system).
+
+## Data Documentation
+
+* [Data constructs](https://www.pathwaysstudy.pitt.edu/codebook/constructs.html). This links to the high-level overview of what constructs were measured in this survey.
+* [Data measures](https://www.pathwaysstudy.pitt.edu/codebook/measures.html). I find this link more useful than the constructs page. This contains more granular information about the categories of questions asked and when they were asked (baseline, follow-up, release, collateral baseline, collateral follow-up).
+* [Data calendars](https://www.pathwaysstudy.pitt.edu/codebook/calendars.html).
+    * What are data calendars? How are they different from the other self-reported measures? Well they're actually called monthly-life approach calendars. Research participants are provided with a visual calendar, and then they're asked to recall salient life events while marking them on the calendar. These important life events provide an anchor for participants to recall pertinent events for the purposes of the survey. It draws upon scientific research about how people remember events and life situations. From a practical perspective, it provides a richer set of data points. Instead of simply getting a summary measure of life changes over an extended recall period, the monthly life-calendar places these changes within specific points in time opening up all new possibilities of research (examining sequences of events and causal mechanisms).
+    * This data is only available for restricted use.
+    * [Antisocial activities](https://www.pathwaysstudy.pitt.edu/codebook/cal-sro_calendar_codebook.html). Lines up with self-reported offending.
+    * [Contacts with the justice system](https://www.pathwaysstudy.pitt.edu/codebook/cal-cjs_codebook.html).
+    * [Court monitoring](https://www.pathwaysstudy.pitt.edu/codebook/cal-court_monitoring_services_codebook.html).
+    * [Out of community placements](https://www.pathwaysstudy.pitt.edu/codebook/cal-out_of_community_placements_codebook.html).
+* [Official Records](https://www.pathwaysstudy.pitt.edu/codebook/official-record-information.html). For our interests, this tracks whether or not a participant has an official arrest record before the baseline interview as well as in the interim time periods between each follow-up interview. The questions aren't as finely grained as the self-report variables. The data is also restricted use. Plans are being made to provide data from drug screenings.
+
+## Data Availability
+
+* [Baseline interviews + follow-up interviews](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/29961).
+* [Collateral Interviews](https://www.icpsr.umich.edu/web/NAHDAP/studies/32881)
+* [Release Interviews](https://www.icpsr.umich.edu/web/NAHDAP/studies/34488/summary). Restricted use.
+* [Official Arrest Records](https://www.icpsr.umich.edu/web/NAHDAP/studies/34605). Restricted use.
+* [Calendar data](https://www.icpsr.umich.edu/web/NAHDAP/studies/32282). Restricted use.

@@ -43,3 +43,6 @@ docs/
 
 # translation temp files
 po/*~
+
+# data
+1-harmonize-clean-raw-data/input
